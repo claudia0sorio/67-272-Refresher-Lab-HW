@@ -36,6 +36,11 @@
     "coverage": {
       "/Users/claudiaosorio/Documents/Gadgets/373-review/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
+        null,
+        1,
+        1,
         null,
         null
       ],
@@ -45,8 +50,8 @@
         null
       ],
       "/Users/claudiaosorio/Documents/Gadgets/373-review/lab5-choretracker-starter/app/models/chore.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/claudiaosorio/Documents/Gadgets/373-review/lab5-choretracker-starter/app/models/task.rb": [
         0,
@@ -304,6 +309,6 @@
         0
       ]
     },
-    "timestamp": 1612719561
+    "timestamp": 1612720219
   }
 }
