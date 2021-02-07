@@ -58,11 +58,13 @@
       ],
       "/Users/claudiaosorio/Documents/Gadgets/373-review/lab5-choretracker-starter/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/claudiaosorio/Documents/Gadgets/373-review/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/claudiaosorio/Documents/Gadgets/373-review/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -316,6 +318,6 @@
         0
       ]
     },
-    "timestamp": 1612720446
+    "timestamp": 1612723210
   }
 }
